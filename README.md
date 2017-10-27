@@ -1,6 +1,6 @@
 # CoToanVietNam - android - Andengine
 <br>
-pedding from 2015 ... 
+Pending from 2015 ... 
 <br>
 + init base.<br>
 + move chess.<br>
