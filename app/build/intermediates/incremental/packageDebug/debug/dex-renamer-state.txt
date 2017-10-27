@@ -1,0 +1,4 @@
+#Fri Oct 27 11:54:00 ICT 2017
+base.0=/home/lamhx/workspaces/GameCoToanAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/lamhx/workspaces/GameCoToanAndroid/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
